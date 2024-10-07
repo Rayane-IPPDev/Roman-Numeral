@@ -36,4 +36,4 @@ Source: https://codingdojo.org/kata/RomanNumerals/
 Pour information, tu as le droit d'utiliser tous les outils que tu veux : Javadoc, Documentation en ligne, StackOverflow, Google... fais en bon usage.
 
 ## Prérequis
-Java 11 et Maven.
+Java 17 et Maven.
